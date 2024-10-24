@@ -6,7 +6,7 @@
    <tr>
       <td> Education </td>
       <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoMospolytech.jpg/300px-LogoMospolytech.jpg" title="Moscow polytech" width="70"/>&nbsp;
+          <img src="https://urfu.ru/fileadmin/user_upload/common_files/about/brand/UrFULogo_U.png" title="UrFU" width="70"/>&nbsp;
       </td>
       <td>
            <img src="https://avatars.mds.yandex.net/i?id=e583af1751d6ae3e118d8d41468c02e78ebcfb23-5175033-images-thumbs&n=13" title="Yandex practicum" width="70"/>&nbsp;
