@@ -19,13 +19,15 @@
         <th>Название проекта</th>
 	<th>Библиотеки/Инструменты</th>
   	<th>Описание</th>
-      </tr> 
+      </tr>
+	    
       <tr>
 	<td>1</td>
     	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/city_music">Яндекс.Музыка</a></td>
   	<td><tt>Pandas</tt></td>
   	<td>Сравнение пользователей <a href = "https://music.yandex.ru/">Яндекс Музыка</a> из Москвы и Петербурга. Проверка сформулированных гипотез.</td>
       </tr>
+      
       <tr>
 	<td>2</td>
     	<td><a href = "https://github.com/Danspers/5.EDA-game-rating">Исследование продаж видео-игр в США, Европе и Японии.</a></td>
