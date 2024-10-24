@@ -1,4 +1,5 @@
 ## About me
+<center>
 |   |   |   |   |   |
 |---|---|---|---|---|
 |Education|<img src="https://urfu.ru/fileadmin/user_upload/common_files/about/brand/UrFULogo_U.png" alt="UrFU" width="100" height="100">|<img src="https://avatars.mds.yandex.net/i?id=e583af1751d6ae3e118d8d41468c02e78ebcfb23-5175033-images-thumbs&n=13" alt="Yandex_Practicum" width="100" height=100>|
@@ -7,3 +8,4 @@
 |Tools|<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Alt Text" width="100" height="40">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="Alt Text" width="100" height="50">|
 |OS|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" alt="Windows" width="100" height="20">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="Linux" width="80" height="100">
 |IDEs/Editors|<img src="https://scriptsview.com/wp-content/uploads/2021/06/1200px-Jupyter_logo.svg_-920x518.png" alt="Alt Text" width="100" height="50">|<img src="https://repository-images.githubusercontent.com/625335362/ac3e2ab3-efe4-4482-b19d-26d1700e3262" alt="Alt Text" width="100" height="50">|  
+</center>
