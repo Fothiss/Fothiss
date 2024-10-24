@@ -1,5 +1,4 @@
 ## About me
-<center>
   
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -10,4 +9,3 @@
 |OS|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" alt="Windows" width="100" height="20">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="Linux" width="80" height="100">
 |IDEs/Editors|<img src="https://scriptsview.com/wp-content/uploads/2021/06/1200px-Jupyter_logo.svg_-920x518.png" alt="Alt Text" width="100" height="50">|<img src="https://repository-images.githubusercontent.com/625335362/ac3e2ab3-efe4-4482-b19d-26d1700e3262" alt="Alt Text" width="100" height="50">|  
 
-</center>
