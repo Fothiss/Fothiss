@@ -1,5 +1,5 @@
 ## About me
-
+|   |   |   |   |   |
 |---|---|---|---|---|
 |Education|<img src="https://urfu.ru/fileadmin/user_upload/common_files/about/brand/UrFULogo_U.png" alt="UrFU" width="100" height="100">|<img src="https://avatars.mds.yandex.net/i?id=e583af1751d6ae3e118d8d41468c02e78ebcfb23-5175033-images-thumbs&n=13" alt="Yandex_Practicum" width="100" height=100>|
 |Languages|<img src="https://repository-images.githubusercontent.com/476329517/a132af01-7d76-428b-b245-e7dafe8964ca" alt="Alt Text" width="100" height="80">|<img src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png" alt="Alt Text" width="100" height="50">|
