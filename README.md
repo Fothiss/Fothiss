@@ -118,7 +118,7 @@
       </tr>  
       <tr>
 	<td>1</td>
-    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/billing_report">Python-скрипт для формирования xlsx-отчета</a></td>
+    	<td><a href = "https://github.com/Fothiss/Work-projects/tree/main/billing_report">Python-скрипт для формирования xlsx-отчета</a></td>
   	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
   	<td>Разработка python-скрипта для формирования xlsx-отчета биллинга клиентов.</td>
       </tr>
