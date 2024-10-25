@@ -64,33 +64,15 @@
       </tr>  
       <tr>
 	<td>1</td>
-    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/city_music">Яндекс.Музыка</a></td>
-  	<td><tt>Pandas</tt></td>
-  	<td>Сравнение пользователей Яндекс Музыка</a> из Москвы и Петербурга. Проверка сформулированных гипотез.</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/cow_buy_prediction">Исследование молочного хозяйства</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Sklearn</tt>, <tt>SciPy</tt></td>
+  	<td>Исследование и создание прогнозных моделей для отбора коров к покупке.</td>
       </tr>
       <tr>
 	<td>2</td>
-    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/credit_scoring">Исследование надежности заемщика</a></td>
-  	<td><tt>Pandas</tt></td>
-  	<td>Необходимо провести исследование заемщиков банка, узнать влияют ли какие-либо факторы на надежность и составить портреты идеального и плохого заемщиков.</td>
-      </tr>
-      <tr>
-  	<td>3</td>
-	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/game_analytics">Аналитика успешности игр</a></td>
-  	<td><tt>Pandas</tt>, <tt>Seaborn</tt>, <tt>Matplotlib</tt>, <tt>Scipy</tt>, <tt>NumPy</tt></td>
-  	<td>В данном исследовании необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. На данный момент собраны данные на 2016 год, кампания планиурется на 2017 год.</td>
-      </tr>
-      <tr>
-  	<td>4</td>
-    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/real_estate_price">Исследование объявлений о продаже квартир</a></td>
-  	<td><tt>Pandas</tt>, <tt>Matplotlib</tt></td>
-  	<td>Необходимо научиться определять рыночную стоимость объектов недвижимости, и установить параметры, влияющие на это. Исследование необходимо для создания автоматизированной системы отслеживания аномалий и мошеннической деятельности для сервиса Яндекс Недвижимость.</td>
-      </tr>
-      <tr>
-  	<td>5</td>
-    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/scooter_rental">Аналитика сервиса аренды самокатов GoFast</a></td>
-	<td><tt>Pandas</tt>, <tt>Matplotlib</tt>, <tt>NumPy</tt>, <tt>SciPy</tt></td>
-	<td>В данном проекте необходимо проанализировать данные сервиса аренды самокатов GoFast и проверить гипотезы, которые могут помочь бизнесу развиваться.</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/well_drilling">Выбор локации для скважины</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Sklearn</tt>, <tt>SciPy</tt>, <tt>shap</tt></td>
+  	<td>Необходимо провести исследование проб нефти в регионах и с помощью моделей машинного обучения определить наиболее прибыльный регион.</td>
       </tr>
     </table>
 </details>
