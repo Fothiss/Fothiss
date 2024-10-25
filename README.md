@@ -77,3 +77,33 @@
     </table>
 </details>
 
+<details close>
+  <summary>Задачи классификации</summary>
+    <table>
+      <tr>
+  	<th>№</th>
+        <th>Название проекта</th>
+	<th>Стек</th>
+  	<th>Описание</th>
+      </tr>
+      <tr>
+	<td>1</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/cow_buy_prediction">Исследование молочного хозяйства</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>SciPy</tt></td>
+  	<td>Исследование и создание прогнозных моделей для отбора коров к покупке.</td>
+      </tr>
+      <tr>
+	<td>2</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/hr_analytics">HR-аналитика</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt></td>
+  	<td>Исследование сотрудников и предсказание удовлетворенности работой и веротяности ухода.</td>
+      </tr>
+      <tr>
+	<td>3</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/one_click_analytics">Персонализация предложений для клиентов интернет-магазина</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>shap</tt></td>
+  	<td>Исследование потребителей интернет-магазина и разработка модели машинного обучения для формирования персональных предложений постоянным клиентам.</td>
+      </tr>
+    </table>
+</details>
+
