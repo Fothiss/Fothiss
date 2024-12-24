@@ -80,6 +80,18 @@
   	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>SciPy</tt>, <tt>shap</tt></td>
   	<td>Необходимо провести исследование проб нефти в регионах и с помощью моделей машинного обучения определить наиболее прибыльный регион.</td>
       </tr>
+      <tr>
+	<td>3</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/11.%20cost_car">Определение стоимости автомобиля</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>LightGBM</tt>, <tt>SciPy</tt>, <tt>shap</tt></td>
+  	<td>Необходимо построить модель для определения стоимости автомобилей на основании имеющихся характеристик и данных.</td>
+      </tr>
+      <tr>
+	<td>4</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/12.%20taxi_time_series">Прогнозирование заказов такси</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>LightGBM</tt>, <tt>SciPy</tt>, <tt>shap</tt></td>
+  	<td>Необходимо построить модель для прогнозирования количества заказов такси в ближайший час.</td>
+      </tr>
     </table>
 </details>
 
@@ -109,6 +121,12 @@
     	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/one_click_analytics">Персонализация предложений для клиентов интернет-магазина</a></td>
   	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>phik</tt>, <tt>Scikit-Learn</tt>, <tt>shap</tt></td>
   	<td>Исследование потребителей интернет-магазина и разработка модели машинного обучения для формирования персональных предложений постоянным клиентам.</td>
+      </tr>
+	<tr>
+	<td>4</td>
+    	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/13.%20wikishop_toxic_detection">Проект классификации комментариев</a></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>nltk</tt>, <tt>Scikit-Learn</tt>, <tt>tqdm</tt></td>
+  	<td>Для интернет-магазина необходимо обучить модель классифицировать комментарии на позитивные и негативные.</td>
       </tr>
     </table>
 </details>
