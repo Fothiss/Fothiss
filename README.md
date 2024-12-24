@@ -50,6 +50,12 @@
 	<td><tt>Pandas</tt>, <tt>Matplotlib</tt>, <tt>NumPy</tt>, <tt>SciPy</tt></td>
 	<td>В данном проекте необходимо проанализировать данные сервиса аренды самокатов GoFast и проверить гипотезы, которые могут помочь бизнесу развиваться.</td>
       </tr>
+	<tr>
+	<td>6</td>
+	<td><a href = "https://github.com/Fothiss/Practicum/tree/main/10.%20investment_market_sql">Анализ рынка инвестиций</a></td>
+	<td><tt>PosgreSQL</tt></td>
+	<td>В данном проекте необходимо провести работу с базой данных, которая хранит информацию о венчурных фондах и инвестициях в компании-стартапы.</td>
+	</tr>
     </table>
 </details>
 
