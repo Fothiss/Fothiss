@@ -38,7 +38,7 @@
       <tr>
 	<td>1</td>
     	<td><a href = "https://github.com/Fothiss/Pet-projects/tree/main/basal_temparature">Прогнозирование базальной температуры</a></td>
-  	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
+  	<td><tt>Pandas</tt>, <tt>NumPy</tt>, <tt>Matplotlib</tt>, <tt>Seaborn</tt>, <tt>Scikit-Learn</tt>, <tt>LightGBM</tt>, <tt>Keras</tt>, <tt>ARIMA</tt></td>
   	<td>Разработка и изучение моделей машинного обучения для прогнозирования базальной температуры.</td>
       </tr>
 </table>
