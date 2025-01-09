@@ -37,7 +37,7 @@
       </tr>  
       <tr>
 	<td>1</td>
-    	<td><a href = "https://github.com/Fothiss/Work-projects/tree/main/billing_report">Прогнозирование базальной температуры</a></td>
+    	<td><a href = "https://github.com/Fothiss/Pet-projects/tree/main/basal_temparature">Прогнозирование базальной температуры</a></td>
   	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
   	<td>Разработка и изучение моделей машинного обучения для прогнозирования базальной температуры.</td>
       </tr>
