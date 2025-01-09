@@ -1,24 +1,18 @@
 ## About me
-  
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Education|<img src="https://urfu.ru/fileadmin/user_upload/common_files/about/brand/UrFULogo_U.png" alt="Уральский Федеральный Университет" width="100" height="100">|<img src="https://avatars.mds.yandex.net/i?id=e583af1751d6ae3e118d8d41468c02e78ebcfb23-5175033-images-thumbs&n=13" alt="Yandex_Practicum" width="100" height=100>|
-|Languages|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" width="90" height="100">| |
-|Tools|<img src="https://i.pinimg.com/736x/90/06/65/900665d788e38b2e0166fabb271dd7a8.jpg" alt="Pandast" width="100" height="50">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="NumPy" width="100" height="50">|<img src="https://habrastorage.org/getpro/habr/upload_files/6c6/887/78d/6c688778d9df0ab8413b0fe1f65b33bb.png" alt="Seaborn" width="100" height="30">|<img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="100" height="20">|
-|Tools|<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sklearn" width="100" height="40">|<img src="https://logodix.com/logo/2209337.png" alt="TensorFlow" width="100" height="60">|<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="100" height="100">|
-|OS|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" alt="Windows" width="100" height="20">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="Linux" width="80" height="100">
-|IDEs/Editors|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS_Code" width="100" height="100">|  
-
-[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
-[![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
-[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
-[![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
+   
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Work projects
 
