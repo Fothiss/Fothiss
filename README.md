@@ -9,6 +9,40 @@
 |OS|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" alt="Windows" width="100" height="20">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="Linux" width="80" height="100">
 |IDEs/Editors|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS_Code" width="100" height="100">|  
 
+## Work projects
+
+<table>
+      <tr>
+  	<th>№</th>
+        <th>Название проекта</th>
+	<th>Стек</th>
+  	<th>Описание</th>
+      </tr>  
+      <tr>
+	<td>1</td>
+    	<td><a href = "https://github.com/Fothiss/Work-projects/tree/main/billing_report">Python-скрипт для формирования xlsx-отчета</a></td>
+  	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
+  	<td>Разработка python-скрипта для формирования xlsx-отчета биллинга клиентов.</td>
+      </tr>
+</table>
+
+## Pet projects
+
+<table>
+      <tr>
+  	<th>№</th>
+        <th>Название проекта</th>
+	<th>Стек</th>
+  	<th>Описание</th>
+      </tr>  
+      <tr>
+	<td>1</td>
+    	<td><a href = "https://github.com/Fothiss/Work-projects/tree/main/billing_report">Прогнозирование базальной температуры</a></td>
+  	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
+  	<td>Разработка и изучение моделей машинного обучения для прогнозирования базальной температуры.</td>
+      </tr>
+</table>
+
 ## Study projects
 
 <details close>
@@ -136,20 +170,3 @@
       </tr>
     </table>
 </details>
-
-## Work projects
-
-<table>
-      <tr>
-  	<th>№</th>
-        <th>Название проекта</th>
-	<th>Стек</th>
-  	<th>Описание</th>
-      </tr>  
-      <tr>
-	<td>1</td>
-    	<td><a href = "https://github.com/Fothiss/Work-projects/tree/main/billing_report">Python-скрипт для формирования xlsx-отчета</a></td>
-  	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
-  	<td>Разработка python-скрипта для формирования xlsx-отчета биллинга клиентов.</td>
-      </tr>
-</table>
