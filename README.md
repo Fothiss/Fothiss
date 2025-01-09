@@ -9,6 +9,17 @@
 |OS|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/420px-Windows_logo_and_wordmark_-_2021.svg.png" alt="Windows" width="100" height="20">|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" alt="Linux" width="80" height="100">
 |IDEs/Editors|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" alt="Jupyter" width="100" height="100">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS_Code" width="100" height="100">|  
 
+[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-464646??style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
+[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
+[![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
+
 ## Work projects
 
 <table>
