@@ -23,6 +23,12 @@
   	<td><tt>MySQL</tt>, <tt>openpyxl</tt>, <tt>yaml</tt></td>
   	<td>Разработка python-скрипта для формирования xlsx-отчета биллинга клиентов.</td>
       </tr>
+      <tr>
+	<td>2</td>
+	<td><a href = "https://github.com/Fothiss/web_flask">Веб-приложение на flask</a></td>
+	<td><tt>MySQL</tt>, <tt>SQLAlchemy</tt>, <tt>flask</tt></td>
+	<td>Разработка веб-приложения на flask для сбора информации о состоянии спутниковых терминалов.</td>
+      </tr>
 </table>
 
 ## Study projects
